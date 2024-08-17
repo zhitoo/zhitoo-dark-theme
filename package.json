@@ -1,0 +1,22 @@
+{
+  "name": "zhitoo-dark-theme",
+  "displayName": "zhitoo dark theme",
+  "description": "zhitoo dark theme for vscode",
+  "version": "0.0.1",
+  "publisher": "HosseinShafiei",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "zhitoo dark theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zhitoo dark theme-color-theme.json"
+      }
+    ]
+  }
+}
